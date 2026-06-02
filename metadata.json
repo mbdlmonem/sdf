@@ -1,0 +1,6 @@
+{
+  "name": "DEX Screener Clone",
+  "description": "A high-performance decentralized exchange analytics dashboard with real-time price tracking, charts, and market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
